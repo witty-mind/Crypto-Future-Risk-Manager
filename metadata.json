@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Futures Position Calculator",
+  "description": "A sleek, single-page calculator for intraday crypto futures trading to determine position size and margin required.",
+  "requestFramePermissions": []
+}
